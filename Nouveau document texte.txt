@@ -1,0 +1,5 @@
+keytool -list -v -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
+SHA 1: 25:24:59:B7:5D:38:DA:01:3D:CB:26:74:1E:3C:C4:01:D1:E5:81:51
+SHA 256: B5:F0:00:C9:F4:C1:18:5D:C3:61:EC:73:BC:AA:26:51:C9:59:05:1D:63:10:93:B0:91:BC:FF:A7:54:84:80:90
+
+proguard-rules.pro:https://github.com/jitsi/jitsi-meet/blob/master/android/app/proguard-rules.pro
